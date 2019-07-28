@@ -1,0 +1,8 @@
+[
+  {
+    "moves": [ "Move", "Rotate","Move", "Rotate", "Move", "Move"]
+  },
+  {
+    "moves": [ "Move", "Rotate", "Move", "Rotate", "Move", "Move", "Rotate", "Move", "Move" ]
+  }
+]

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge", "TurtleChallenge\TurtleChallenge.csproj", "{7A13D417-FF6A-4A84-960E-C4BEE3705732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.Game", "TurtleChallenge.Game\TurtleChallenge.Game.csproj", "{85332413-90F9-46EA-9F6B-A3222F0BAE11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.Player", "TurtleChallenge.Player\TurtleChallenge.Player.csproj", "{0AC17626-859A-4772-9C56-0F2D8BDA176B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.Abstractions", "TurtleChallenge.Abstractions\TurtleChallenge.Abstractions.csproj", "{45CAE49C-2D9A-45D0-9D59-4360B58FE105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.ConfigReader", "TurtleChallenge.FileReader\TurtleChallenge.ConfigReader.csproj", "{D15DDD0A-44AF-4998-9B82-7D181E401AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TurtleChallenge.Tests", "TurtleChallenge.Tests\TurtleChallenge.Tests.csproj", "{6F1EA3B4-15F3-4528-B740-02857BCF74F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A13D417-FF6A-4A84-960E-C4BEE3705732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A13D417-FF6A-4A84-960E-C4BEE3705732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A13D417-FF6A-4A84-960E-C4BEE3705732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A13D417-FF6A-4A84-960E-C4BEE3705732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85332413-90F9-46EA-9F6B-A3222F0BAE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85332413-90F9-46EA-9F6B-A3222F0BAE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85332413-90F9-46EA-9F6B-A3222F0BAE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85332413-90F9-46EA-9F6B-A3222F0BAE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC17626-859A-4772-9C56-0F2D8BDA176B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC17626-859A-4772-9C56-0F2D8BDA176B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC17626-859A-4772-9C56-0F2D8BDA176B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC17626-859A-4772-9C56-0F2D8BDA176B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45CAE49C-2D9A-45D0-9D59-4360B58FE105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45CAE49C-2D9A-45D0-9D59-4360B58FE105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45CAE49C-2D9A-45D0-9D59-4360B58FE105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45CAE49C-2D9A-45D0-9D59-4360B58FE105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15DDD0A-44AF-4998-9B82-7D181E401AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15DDD0A-44AF-4998-9B82-7D181E401AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15DDD0A-44AF-4998-9B82-7D181E401AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15DDD0A-44AF-4998-9B82-7D181E401AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1EA3B4-15F3-4528-B740-02857BCF74F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1EA3B4-15F3-4528-B740-02857BCF74F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1EA3B4-15F3-4528-B740-02857BCF74F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1EA3B4-15F3-4528-B740-02857BCF74F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F0D33F6-E967-459A-AF7D-9AE4542F6FA2}
+	EndGlobalSection
+EndGlobal

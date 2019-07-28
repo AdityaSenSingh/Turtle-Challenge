@@ -1,0 +1,28 @@
+{
+  "boardSize": {
+    "rows": 4,
+    "columns": 5
+  },
+
+  "mines": [
+    {
+      "x": 2,
+      "y": 3
+    },
+    {
+      "x": 3,
+      "y": 4
+    }
+  ],
+
+  "startingPoint": {
+    "x": 0,
+    "y": 3,
+    "direction": "North"
+  },
+
+  "exitPoint": {
+    "x": 3,
+    "y": 3
+  }
+}
